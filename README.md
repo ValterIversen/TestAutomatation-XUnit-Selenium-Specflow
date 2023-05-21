@@ -1,6 +1,6 @@
 Project created just to document the basis of a test automation project
 
-The porpuse of this repository is to give a nice and complete template to be used.
+The porpuse of this repository is to give a complete template to be used.
 
 The project is divided into 3 parts:
 
