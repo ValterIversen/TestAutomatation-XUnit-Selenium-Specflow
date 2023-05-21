@@ -1,0 +1,12 @@
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/bin/Debug/net7.0/TestAutomatation.Domain.deps.json
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/bin/Debug/net7.0/TestAutomatation.Domain.dll
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/bin/Debug/net7.0/TestAutomatation.Domain.pdb
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/TestAutomatation.Domain.csproj.AssemblyReference.cache
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/TestAutomatation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/TestAutomatation.Domain.AssemblyInfoInputs.cache
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/TestAutomatation.Domain.AssemblyInfo.cs
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/TestAutomatation.Domain.csproj.CoreCompileInputs.cache
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/TestAutomatation.Domain.dll
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/refint/TestAutomatation.Domain.dll
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/TestAutomatation.Domain.pdb
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/ref/TestAutomatation.Domain.dll

@@ -1,0 +1,9 @@
+﻿<Properties StartupConfiguration="{4B269239-6BFA-4739-BCCA-D3C975220324}|Default">
+  <DisabledProjects>
+    <String>TestAutomatation.Infra.Data/TestAutomatation.IoC/TestAutomatation.IoC.csproj</String>
+    <String>TestAutomatation.Infra.Data/TestAutomatation.Logs.DAL/TestAutomatation.Logs.DAL.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.3_220-_220TestLink.TestAutomatation.TestLinkIntegration FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.0_220-_220Tests.TestAutomatation.SiteChacara PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

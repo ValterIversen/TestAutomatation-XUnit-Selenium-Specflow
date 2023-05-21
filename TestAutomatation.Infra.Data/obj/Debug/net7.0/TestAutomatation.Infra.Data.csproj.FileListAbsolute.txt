@@ -1,0 +1,15 @@
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/bin/Debug/net7.0/TestAutomatation.Infra.Data.deps.json
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/bin/Debug/net7.0/TestAutomatation.Infra.Data.dll
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/bin/Debug/net7.0/TestAutomatation.Infra.Data.pdb
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/bin/Debug/net7.0/TestAutomatation.Domain.dll
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/bin/Debug/net7.0/TestAutomatation.Domain.pdb
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/TestAutomatation.Infra.Data.csproj.AssemblyReference.cache
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/TestAutomatation.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/TestAutomatation.Infra.Data.AssemblyInfoInputs.cache
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/TestAutomatation.Infra.Data.AssemblyInfo.cs
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/TestAutomatation.Infra.Data.csproj.CoreCompileInputs.cache
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/TestAutomatation.Infra.Data.csproj.CopyComplete
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/TestAutomatation.Infra.Data.dll
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/refint/TestAutomatation.Infra.Data.dll
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/TestAutomatation.Infra.Data.pdb
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/obj/Debug/net7.0/ref/TestAutomatation.Infra.Data.dll
