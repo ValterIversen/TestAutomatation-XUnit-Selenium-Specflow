@@ -10,7 +10,7 @@ Constains the tests projects, use whatever tools you want. I have used Selenium 
 
 1 - Domain and 2 - Infra 
 Responsible for reading and write in the database.
-I have used this for writings logs, change database configs for specific tests and to compare crital datas
+I have used this for writings logs, change database configs for specific tests and to compare critical datas
 
 
 3 - TestLink
