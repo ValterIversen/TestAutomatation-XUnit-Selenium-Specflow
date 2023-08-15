@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KeZ+Q3052MYqeQKuf95D9SWE5HI+BeylBQR83YHEEPbIyLzKHNSIjUn28d7HrC3b3EmsF0HweIw/5YBM+hy8KQ==",
+  "dgSpecHash": "GJVoNP2BNB7VJY/xuQj84IFweRts99qm3VmF6101eL0O8uZ1gsqFZmbaRgIgRnNuwttbXOTqov5CpRfL+WNqQQ==",
   "success": true,
-  "projectFilePath": "/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/TestAutomatation.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ivers\\OneDrive\\Documentos\\GitHub\\TestAutomatation-XUnit-Selenium-Specflow\\TestAutomatation.Domain\\TestAutomatation.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

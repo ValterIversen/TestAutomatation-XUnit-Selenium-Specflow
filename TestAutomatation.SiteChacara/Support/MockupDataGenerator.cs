@@ -48,6 +48,12 @@ namespace TestAutomatation.SiteChacara.Support
 
             period.FinalDate = faker.Date.Between(period.StartDate, period.StartDate.AddDays(interval));
 
+            if(month < DateTime.Now.Month)
+            {
+                period.StartDate = period.StartDate.AddYears(1);
+                period.FinalDate = period.FinalDate.AddYears(1);
+            }
+
             return period;
         }
 

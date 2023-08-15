@@ -10,3 +10,14 @@
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/refint/TestAutomatation.Domain.dll
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/TestAutomatation.Domain.pdb
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Domain/obj/Debug/net7.0/ref/TestAutomatation.Domain.dll
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\bin\Debug\net7.0\TestAutomatation.Domain.deps.json
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\bin\Debug\net7.0\TestAutomatation.Domain.dll
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\bin\Debug\net7.0\TestAutomatation.Domain.pdb
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\obj\Debug\net7.0\TestAutomatation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\obj\Debug\net7.0\TestAutomatation.Domain.AssemblyInfoInputs.cache
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\obj\Debug\net7.0\TestAutomatation.Domain.AssemblyInfo.cs
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\obj\Debug\net7.0\TestAutomatation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\obj\Debug\net7.0\TestAutomatation.Domain.dll
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\obj\Debug\net7.0\refint\TestAutomatation.Domain.dll
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\obj\Debug\net7.0\TestAutomatation.Domain.pdb
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Domain\obj\Debug\net7.0\ref\TestAutomatation.Domain.dll

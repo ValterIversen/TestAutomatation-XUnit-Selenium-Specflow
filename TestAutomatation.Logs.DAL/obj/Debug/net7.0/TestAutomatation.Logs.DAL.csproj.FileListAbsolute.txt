@@ -19,3 +19,17 @@
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Logs.DAL/obj/Debug/net7.0/refint/TestAutomatation.Logs.DAL.dll
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Logs.DAL/obj/Debug/net7.0/TestAutomatation.Logs.DAL.pdb
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Logs.DAL/obj/Debug/net7.0/ref/TestAutomatation.Logs.DAL.dll
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\bin\Debug\net7.0\TestAutomatation.Logs.DAL.deps.json
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\bin\Debug\net7.0\TestAutomatation.Logs.DAL.dll
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\bin\Debug\net7.0\TestAutomatation.Logs.DAL.pdb
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.csproj.AssemblyReference.cache
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.Properties.Resources.resources
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.csproj.GenerateResource.cache
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.AssemblyInfoInputs.cache
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.AssemblyInfo.cs
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.dll
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\refint\TestAutomatation.Logs.DAL.dll
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\TestAutomatation.Logs.DAL.pdb
+C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.Logs.DAL\obj\Debug\net7.0\ref\TestAutomatation.Logs.DAL.dll
