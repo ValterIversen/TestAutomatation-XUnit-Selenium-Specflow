@@ -20,5 +20,10 @@ namespace TestAutomatation.SiteChacara.Screens
         {
             Helper.GoToUrl(url);
         }
+
+        public void CloseBrowser()
+        {
+            Helper.Dispose();
+        }
     }
 }

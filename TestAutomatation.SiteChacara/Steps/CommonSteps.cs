@@ -37,6 +37,8 @@ namespace TestAutomatation.SiteChacara.Steps
                 _commonValidations.ValidateBookingUrl(url);                
 
                 _scFixture.AddLog($"The booking was done successfully.", $"{GetType().Name}.{_scFixture.GetActualMethodName()}", true);
+
+                _whastappApiPage.CloseBrowser();
             }
             catch (Exception ex)
             {
