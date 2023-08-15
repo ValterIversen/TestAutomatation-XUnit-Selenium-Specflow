@@ -1,4 +1,4 @@
-/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.SiteChacara/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.SiteChacara/bin/Debug/net7.0/CoverletSourceRootsMapping_TestAutomatation.SiteChacara
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.SiteChacara/bin/Debug/net7.0/TechTalk.SpecFlow.xUnit.SpecFlowPlugin.dll
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.SiteChacara/bin/Debug/net7.0/SolidToken.SpecFlow.DependencyInjection.SpecFlowPlugin.dll
 /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.SiteChacara/bin/Debug/net7.0/TestAutomatation.TestLinkIntegration.deps.json
