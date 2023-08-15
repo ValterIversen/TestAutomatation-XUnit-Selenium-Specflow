@@ -3215,39 +3215,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ivers\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "/Users/valtersouza/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ivers\\OneDrive\\Documentos\\GitHub\\TestAutomatation-XUnit-Selenium-Specflow\\TestAutomatation.IoC\\TestAutomatation.IoC.csproj",
+      "projectUniqueName": "/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.IoC/TestAutomatation.IoC.csproj",
       "projectName": "TestAutomatation.IoC",
-      "projectPath": "C:\\Users\\ivers\\OneDrive\\Documentos\\GitHub\\TestAutomatation-XUnit-Selenium-Specflow\\TestAutomatation.IoC\\TestAutomatation.IoC.csproj",
-      "packagesPath": "C:\\Users\\ivers\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ivers\\OneDrive\\Documentos\\GitHub\\TestAutomatation-XUnit-Selenium-Specflow\\TestAutomatation.IoC\\obj\\",
+      "projectPath": "/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.IoC/TestAutomatation.IoC.csproj",
+      "packagesPath": "/Users/valtersouza/.nuget/packages/",
+      "outputPath": "/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.IoC/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ivers\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/valtersouza/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\ivers\\OneDrive\\Documentos\\GitHub\\TestAutomatation-XUnit-Selenium-Specflow\\TestAutomatation.Infra.Data\\TestAutomatation.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\ivers\\OneDrive\\Documentos\\GitHub\\TestAutomatation-XUnit-Selenium-Specflow\\TestAutomatation.Infra.Data\\TestAutomatation.Infra.Data.csproj"
+            "/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/TestAutomatation.Infra.Data.csproj": {
+              "projectPath": "/Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.Infra.Data/TestAutomatation.Infra.Data.csproj"
             }
           }
         }
@@ -3287,7 +3280,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
       }
     }
   }

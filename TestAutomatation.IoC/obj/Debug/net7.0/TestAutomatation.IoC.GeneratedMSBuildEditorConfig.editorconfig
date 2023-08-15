@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TestAutomatation.IoC
-build_property.ProjectDir = C:\Users\ivers\OneDrive\Documentos\GitHub\TestAutomatation-XUnit-Selenium-Specflow\TestAutomatation.IoC\
+build_property.ProjectDir = /Users/valtersouza/Documents/GitHub/TestAutomatation-XUnit-Selenium-Specflow/TestAutomatation.IoC/
