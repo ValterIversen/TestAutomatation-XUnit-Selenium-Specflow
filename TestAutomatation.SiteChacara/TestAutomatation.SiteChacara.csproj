@@ -36,7 +36,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\TestAutomatation.Logs.DAL\TestAutomatation.Logs.DAL.csproj" />
-    <ProjectReference Include="..\TestAutomatation.IoC\TestAutomatation.IoC.csproj" />
     <ProjectReference Include="..\TestAutomatation.TestLinkIntegration\TestAutomatation.TestLinkIntegration.csproj" />
   </ItemGroup>
   <ItemGroup>

@@ -1,27 +1,19 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 25.0.1706.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "0 - Tests", "0 - Tests", "{B1984770-5FA1-4F36-AC00-94463C0E519C}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Domain", "1 - Domain", "{C68D9355-0E37-4840-8846-370B08763CA0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2 - Infra", "2 - Infra", "{22F9BD33-8255-476E-91DE-5E3D73995530}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3 - TestLink", "3 - TestLink", "{073041EA-90DF-4EB8-9FE9-F4709BD431B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomatation.SiteChacara", "TestAutomatation.SiteChacara\TestAutomatation.SiteChacara.csproj", "{4B269239-6BFA-4739-BCCA-D3C975220324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAutomatation.SiteChacara", "TestAutomatation.SiteChacara\TestAutomatation.SiteChacara.csproj", "{4B269239-6BFA-4739-BCCA-D3C975220324}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomatation.Domain", "TestAutomatation.Domain\TestAutomatation.Domain.csproj", "{FF6D9090-284F-416D-ABC8-07C461BD5F7B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAutomatation.Logs.DAL", "TestAutomatation.Logs.DAL\TestAutomatation.Logs.DAL.csproj", "{9D51609C-A10D-4A42-9DC9-063581A0B845}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomatation.Infra.Data", "TestAutomatation.Infra.Data\TestAutomatation.Infra.Data.csproj", "{B8C60A90-662A-468C-91A1-D25F12149065}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomatation.IoC", "TestAutomatation.IoC\TestAutomatation.IoC.csproj", "{E3FBB4BB-B0F5-40C9-A8F2-1BF26B23FB48}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomatation.Logs.DAL", "TestAutomatation.Logs.DAL\TestAutomatation.Logs.DAL.csproj", "{9D51609C-A10D-4A42-9DC9-063581A0B845}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestAutomatation.TestLinkIntegration", "TestAutomatation.TestLinkIntegration\TestAutomatation.TestLinkIntegration.csproj", "{A1BD805E-9F35-4474-B0A7-5F6B25F07106}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestAutomatation.TestLinkIntegration", "TestAutomatation.TestLinkIntegration\TestAutomatation.TestLinkIntegration.csproj", "{A1BD805E-9F35-4474-B0A7-5F6B25F07106}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,18 +25,6 @@ Global
 		{4B269239-6BFA-4739-BCCA-D3C975220324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B269239-6BFA-4739-BCCA-D3C975220324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B269239-6BFA-4739-BCCA-D3C975220324}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FF6D9090-284F-416D-ABC8-07C461BD5F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF6D9090-284F-416D-ABC8-07C461BD5F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF6D9090-284F-416D-ABC8-07C461BD5F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF6D9090-284F-416D-ABC8-07C461BD5F7B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B8C60A90-662A-468C-91A1-D25F12149065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B8C60A90-662A-468C-91A1-D25F12149065}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B8C60A90-662A-468C-91A1-D25F12149065}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B8C60A90-662A-468C-91A1-D25F12149065}.Release|Any CPU.Build.0 = Release|Any CPU
-		{E3FBB4BB-B0F5-40C9-A8F2-1BF26B23FB48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E3FBB4BB-B0F5-40C9-A8F2-1BF26B23FB48}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E3FBB4BB-B0F5-40C9-A8F2-1BF26B23FB48}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E3FBB4BB-B0F5-40C9-A8F2-1BF26B23FB48}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9D51609C-A10D-4A42-9DC9-063581A0B845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9D51609C-A10D-4A42-9DC9-063581A0B845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D51609C-A10D-4A42-9DC9-063581A0B845}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -57,15 +37,12 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {FC6AFC49-5442-429E-A14F-4D2899A24B01}
-	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4B269239-6BFA-4739-BCCA-D3C975220324} = {B1984770-5FA1-4F36-AC00-94463C0E519C}
-		{FF6D9090-284F-416D-ABC8-07C461BD5F7B} = {C68D9355-0E37-4840-8846-370B08763CA0}
-		{B8C60A90-662A-468C-91A1-D25F12149065} = {22F9BD33-8255-476E-91DE-5E3D73995530}
-		{E3FBB4BB-B0F5-40C9-A8F2-1BF26B23FB48} = {22F9BD33-8255-476E-91DE-5E3D73995530}
 		{9D51609C-A10D-4A42-9DC9-063581A0B845} = {22F9BD33-8255-476E-91DE-5E3D73995530}
 		{A1BD805E-9F35-4474-B0A7-5F6B25F07106} = {073041EA-90DF-4EB8-9FE9-F4709BD431B3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC6AFC49-5442-429E-A14F-4D2899A24B01}
 	EndGlobalSection
 EndGlobal

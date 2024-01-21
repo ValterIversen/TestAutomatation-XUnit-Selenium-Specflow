@@ -1,7 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using SolidToken.SpecFlow.DependencyInjection;
-using TestAutomatation.IoC;
 using TestAutomatation.SiteChacara.Validations;
 
 namespace TestAutomatation.SiteChacara.Config
@@ -16,7 +15,6 @@ namespace TestAutomatation.SiteChacara.Config
                     .Build();
 
             var services = new ServiceCollection()
-                    .RegistrarDependencias(config)
                     .AddScoped<SCFixture>()
                     .AddScoped<CommonValidations>();
             return services;
