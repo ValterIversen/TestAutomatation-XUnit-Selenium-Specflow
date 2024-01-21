@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Primitives;
+using OpenQA.Selenium;
 using TestAutomatation.SiteChacara.Entities;
 using TestAutomatation.SiteChacara.Support;
 
@@ -54,7 +55,7 @@ namespace TestAutomatation.SiteChacara.Screens
         public const string classNameDateTimePickerModal = "react-datepicker";
         public const string classNameDateInput = "register_datepicker__giqWh";
         public const string baseClassNameDate = "react-datepicker__day--";
-        public const string classNameProceedBooking = "register_nextLink__nfKtI";
+        public const string textProceedBooking = "Reservar datas!";
 
         public void PickMonth(int month)
         {
@@ -92,7 +93,14 @@ namespace TestAutomatation.SiteChacara.Screens
 
         public void ProceedWithBooking()
         {
-            Helper.ClickByClassName(classNameProceedBooking);
+            try
+            {
+                Helper.LinkClickByText(textProceedBooking);
+            }
+            catch (WebDriverTimeoutException) { }
+            finally
+            {
+            }
         }
 
         #endregion 

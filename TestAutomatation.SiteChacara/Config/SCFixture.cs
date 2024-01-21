@@ -23,7 +23,7 @@ namespace TestAutomatation.SiteChacara.Config
 
         public SCFixture(ScenarioContext scenarioContext)
         {
-            BrowserHelper = new SeleniumHelper(Browser.Chrome);
+            BrowserHelper = new SeleniumHelper(Browser.Firefox);
 
             TempoTeste = new Stopwatch();
             TempoTeste.Start();

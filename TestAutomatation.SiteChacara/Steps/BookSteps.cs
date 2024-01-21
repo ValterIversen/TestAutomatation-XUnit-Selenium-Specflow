@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OpenQA.Selenium;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -117,7 +118,11 @@ namespace TestAutomatation.SiteChacara.Steps
         {
             try
             {
+                //When Selenium executes click(), it will try to wait for the page to load, but in this case, it goes to an external URL
+                //So i have to set the timeout to 1 sec and handle the timeout
+                _scFixture.BrowserHelper.WebDriver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(1);
                 _homePage.ProceedWithBooking();
+                _scFixture.BrowserHelper.WebDriver.Manage().Timeouts().PageLoad = TimeSpan.FromSeconds(60);
             }
             catch (Exception ex)
             {
